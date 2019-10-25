@@ -1,4 +1,4 @@
-# Master-Production-Planning-Algorithm
+# Algorithms-for-Master-Production-Planning
 
 This project provide tools that help with planning production and raw materials purchase activities. All the algorithms aim to optimizing planning by minimizing costs.
 the first part of this project includes several heuristics for raw material replenishment. The second part of this project includes two simulation algorithms that are modeling the behavior of the raw materials based on specified parameters.

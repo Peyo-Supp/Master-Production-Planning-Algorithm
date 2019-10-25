@@ -1,7 +1,7 @@
 # Algorithms-for-Master-Production-Planning
 
-This project provide tools that help with planning production and raw materials purchase activities. All the algorithms aim to optimizing planning by minimizing costs.
-the first part of this project includes several heuristics for raw material replenishment. The second part of this project includes two simulation algorithms that are modeling the behavior of the raw materials based on specified parameters.
+This project provides tools that help with planning production and raw materials purchase activities. All the algorithms aim to optimize the planning process by minimizing costs.
+The first part of this project includes several heuristics for raw material replenishment. The second part of this project includes two simulation algorithms that are modeling the behavior of the raw materials based on specified parameters.
 
 Requirements:
 this project was done from scractch using Python 3.7. 
